@@ -24,6 +24,9 @@ Stand-alone code, including various algorithms and nice exercises.
 	PalindromicSubstrings.py:
 		Finds longest palindromic substring using an O(n^2) implementation and Manacher's algorithm O(n), benchmarked.
 
+	Permutations.py:
+		Given a list, print all possible permutations of its elements.
+
 	PrimeFactors.py:
 		Given an integer n, return the prime factors of n. Two implementations, benchmarked.
 
