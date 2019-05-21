@@ -18,6 +18,9 @@ Stand-alone code, including various algorithms and nice exercises.
 	GetPrimes.py:
 		Given an integer n, return all prime numbers up to n.
 
+	MergeNamedtuples.py:
+		Merge an arbitrary number of namedtuples to a new namedtuple.
+
 	MergeRanges.py:
 		Given a list of tuples, merge the overlapping ranges as shown: [(1,6), (0,5), (7,10)] -> [(0,6), (7,10)]
 
@@ -29,5 +32,11 @@ Stand-alone code, including various algorithms and nice exercises.
 
 	PrimeFactors.py:
 		Given an integer n, return the prime factors of n. Two implementations, benchmarked.
+
+	Threads.py:
+		A simple implementation of two threads.
+
+	sqlite3.py:
+		Create a database and add input & output using sqlite3.
 
 	
